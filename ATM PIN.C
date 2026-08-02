@@ -13,6 +13,8 @@ int i;
 for(i=1;i<=3;i++)
 
 {
+    printf("\n Welcome to State Bank of India ATM");
+    printf("\n Attempt %d of 3",i);
 printf("Enter the PIN:");
 scanf("%s",pin);
 
